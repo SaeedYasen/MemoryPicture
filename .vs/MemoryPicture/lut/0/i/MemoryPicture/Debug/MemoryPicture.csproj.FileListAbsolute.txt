@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\b\memorysql.accdb
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\b\MemoryPicture.exe.config
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\b\MemoryPicture.exe
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\i\MemoryPicture\Debug\MemoryPicture.Form1.resources
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\i\MemoryPicture\Debug\MemoryPicture.HelpGame.resources
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\i\MemoryPicture\Debug\MemoryPicture.levels.resources
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\i\MemoryPicture\Debug\MemoryPicture.listpoint.resources
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\i\MemoryPicture\Debug\MemoryPicture.lists.resources
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\i\MemoryPicture\Debug\MemoryPicture.login.resources
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\i\MemoryPicture\Debug\MemoryPicture.Properties.Resources.resources
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\i\MemoryPicture\Debug\MemoryPicture.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\i\MemoryPicture\Debug\MemoryPicture.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\i\MemoryPicture\Debug\MemoryPicture.csproj.CopyComplete
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\i\MemoryPicture\Debug\MemoryPicture.exe
+C:\Users\User\source\repos\MemoryPicture\.vs\MemoryPicture\lut\0\i\MemoryPicture\Debug\MemoryPicture.csprojAssemblyReference.cache
